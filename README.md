@@ -6,13 +6,13 @@ Authors (whom I can point out!)
 
 1.Solaree 
 CoC-5.2.4-master.zip (Server)
-5.2.4-offline (solaree).js (Script)
+ 5.2.4-offline (solaree).js (Script)
 
 2.Wisedev
- PyMagic-main.zip (Server for v5.2.4)
-script.5.2.4.debug_button.js (Script)
+PyMagic-main.zip (Server for v5.2.4)
+ script.5.2.4.debug_button.js (Script)
 libwiseV5.2.4.js (Script)
 
-3.MEMozki
+3.MEMozki 
 ClashCore-main.zip (Server for V5/V6?)
-5.2.4 - Clash Core Plus.js (Script)
+ 5.2.4 - Clash Core Plus.js (Script)
